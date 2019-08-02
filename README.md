@@ -20,12 +20,13 @@ https://www.ebay.com/itm/Hackintosh-WiFi-Card-PCi-E-Broadcom-BCM94360-802-11a-b-
 
 
 Refers:
-https://en.wikipedia.org/wiki/Hackintosh
-https://github.com/huangyz0918/Hackintosh-Installer-University
-https://github.com/corpnewt/EssentialsList
-https://github.com/b166ar/Mac-Mini-Killer
-https://github.com/corpnewt/Hackintosh-Tips-And-Tricks
+►https://en.wikipedia.org/wiki/Hackintosh
+►https://github.com/huangyz0918/Hackintosh-Installer-University
+►https://github.com/corpnewt/EssentialsList
+►https://github.com/b166ar/Mac-Mini-Killer
+►https://github.com/corpnewt/Hackintosh-Tips-And-Tricks
+►https://github.com/arslan2012/Lazy-Hackintosh-Image-Generator
 
-Another chipset https://github.com/PassthroughPOST/Hackintosh-KVM
-A chinese guy share alot hackintosh stuff https://github.com/cheneyveron
-Mac os apps share page https://imac.hk
+►Another chipset https://github.com/PassthroughPOST/Hackintosh-KVM
+►A chinese guy share alot hackintosh stuff https://github.com/cheneyveron
+►Mac os apps share page https://imac.hk
