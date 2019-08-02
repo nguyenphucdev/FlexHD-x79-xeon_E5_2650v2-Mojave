@@ -16,25 +16,16 @@ https://www.ebay.com/itm/Hackintosh-WiFi-Card-PCi-E-Broadcom-BCM94360-802-11a-b-
  Started Tutorials & Documentation can find at my youtube chanel 
  https://www.youtube.com/user/phucit8x
  
- cheer!!!
+ Cheer!!!
 
 
+Refers:
+https://en.wikipedia.org/wiki/Hackintosh
+https://github.com/huangyz0918/Hackintosh-Installer-University
+https://github.com/corpnewt/EssentialsList
+https://github.com/b166ar/Mac-Mini-Killer
+https://github.com/corpnewt/Hackintosh-Tips-And-Tricks
 
-Clover 4934
-
-AppleALC 1.3.7
-
-IntelMausi 1.0.0
-
-Lilu 1.3.6
-
-USBInjectAll 0.7.1
-
-VirtualSMC 1.0.4
-
-WhateverGreen 1.2.9
-Changelog
-
-2019/07/27
-
-1、Support macOS Mojave 10.14.6
+Another chipset https://github.com/PassthroughPOST/Hackintosh-KVM
+A chinese guy share alot hackintosh stuff https://github.com/cheneyveron
+Mac os apps share page https://imac.hk
