@@ -8,6 +8,17 @@ GPU: Radeon RX 470 4 GB
 SSD:NVME SAMSUNG 970evo
 SMBIOS: Mac Pro (Late 2013)
 
+Not working
+sleep but not wake (dark wake = no)
+wireless should use qualcom bcm 94360 for working out of box
+https://www.ebay.com/itm/Hackintosh-WiFi-Card-PCi-E-Broadcom-BCM94360-802-11a-b-g-n-ac-BT-4-2-/143283462611
+
+ Started Tutorials & Documentation can find at my youtube chanel 
+ https://www.youtube.com/user/phucit8x
+ 
+ cheer!!!
+
+
 
 Clover 4934
 
