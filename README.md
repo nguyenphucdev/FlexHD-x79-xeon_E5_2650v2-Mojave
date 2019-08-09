@@ -33,4 +33,4 @@ https://www.ebay.com/itm/Hackintosh-WiFi-Card-PCi-E-Broadcom-BCM94360-802-11a-b-
 ►[A chinese guy share alot hackintosh stuff] https://github.com/cheneyveron
 ►[Mac os apps share page] https://imac.hk
 
-►[Doc about hackintosh] https://niemtin007.blogspot.com/2015/12/multiboot-usb-grub2-grub4dos-syslinux-refind-xorboot-uefi-legacy-mode.html
+►[Doc about hackintosh] https://niemtin007.blogspot.com/2015/12/multiboot-usb-grub2-grub4dos-syslinux-refind-xorboot-uefi-legacy-mode.html 
